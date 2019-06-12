@@ -4,7 +4,7 @@
 #
 Name     : mvn-plexus-interactivity
 Version  : 1.0.alpha.4
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.jar
 Source0  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.jar
 Source1  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.pom
@@ -13,7 +13,7 @@ Source3  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-interactivi
 Source4  : https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-interactivity/1.0-alpha-6/plexus-interactivity-1.0-alpha-6.pom
 Summary  : No detailed summary available
 Group    : Development/Tools
-License  : Apache-2.0
+License  : Apache-2.0 MIT
 Requires: mvn-plexus-interactivity-data = %{version}-%{release}
 
 %description
